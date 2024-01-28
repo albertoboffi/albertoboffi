@@ -7,14 +7,13 @@ I'm Alberto Boffi. I'm a Graduate student at Politecnico di Milano, currently at
 * 📚 BSc Ingegneria Informatica | Politecnico di Milano
 -----
 📈 **Main Areas of Interest**:
+* ⚙️ Data Structures and Algorithms
+* 🔢 Mathematics
 * 🌐 Web Development
 * 🔐 Cybersecurity
-* 🔢 Mathematics
-* ⚙️ Data Structures and Algorithms
 -----
 🔭 **Currently Working On**:
 * 📜 Master's Thesis
-* 🪐 3D Solar System Simulator
 -----
 👨🏻 **About Me**:
 * 🏃🏻 Sport enthusiast
