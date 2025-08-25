@@ -9,12 +9,12 @@ I'm Alberto Boffi, a seasoned computer engineer and full-stack developer with a 
 * 📚 BSc Ingegneria Informatica || Politecnico di Milano
 
 ### 👨🏻‍💻 Current Role
-* 🏃‍♂️ Software engineer || Reply
+* 🏃‍♂️ Software Engineer || Reply
 
 ### 📈 Main Areas of Interest
 * ⚙️ Data Structures and Algorithms
-* 🔢 Mathematics
 * 🌐 Web Development
+* 🔢 Mathematics
 * 🔐 Cybersecurity
 * 🎮 Computer Graphics
 
@@ -27,4 +27,5 @@ I'm Alberto Boffi, a seasoned computer engineer and full-stack developer with a 
 ### 📫 Connect With Me
 * 💼 <!--<i class="ci ci-linkedin ci-1x"></i>--> [LinkedIn](https://www.linkedin.com/in/alberto-boffi/)
 * 📸 <!--<i class="ci ci-instagram ci-1x"></i>--> [Instagram](https://www.instagram.com/albertoboffi/)
-* ⓕ <!--<i class="ci ci-facebook ci-1x"></i>--> [Facebook](https://www.facebook.com/boffi.alberto)
+* 👥 <!--<i class="ci ci-facebook ci-1x"></i>--> [Facebook](https://www.facebook.com/boffi.alberto)
+* 📌 <!--<i class="ci ci-facebook ci-1x"></i>--> [Pinterest](https://www.pinterest.com/albertoboffi_/_created)
