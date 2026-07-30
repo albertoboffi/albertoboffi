@@ -11,18 +11,18 @@ I'm Alberto Boffi, a seasoned computer engineer and full-stack developer with a 
 ### 👨🏻‍💻 Current Role
 * 🏃‍♂️ Software Engineer || Reply
 
-### 📈 Main Areas of Interest
+### 🚀 Main Areas of Interest
 * ⚙️ Data Structures and Algorithms
 * 🌐 Web Development
-* 🔢 Mathematics
+* 📊 Data Science
 * 🔐 Cybersecurity
 * 🎮 Computer Graphics
+* 🔢 Mathematics
 
 ### 👨🏻 About Me
 * 🏋 Sport enthusiast
 * 🎵 Music addicted
-* 🎨 Graphic design as a hobby
-* 🎬 Video editing in my free time
+* 🎬 Video editing as a hobby
 
 ### 📫 Connect With Me
 * 💼 <!--<i class="ci ci-linkedin ci-1x"></i>--> [LinkedIn](https://www.linkedin.com/in/alberto-boffi/)
